@@ -1,3 +1,5 @@
+# nestjs-openapi-example
+
 ## Installation
 
 ```bash
